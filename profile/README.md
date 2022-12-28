@@ -1,4 +1,4 @@
-# 🍎 파인드애플(FindApple) FrontEnd
+# 🍎 파인드애플(FindApple)
 
 <img src="https://i.ibb.co/BjYLwvp/cover.jpg"/>
 
