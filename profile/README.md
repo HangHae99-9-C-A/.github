@@ -151,3 +151,4 @@
 ![프로필(후 맥북사진)](https://user-images.githubusercontent.com/70747064/207323043-c02cf739-4dcf-4177-bed1-e98a02d6bbc4.png)
 
 → 성능 대비 6.82%, 52.54% 효율성 증가
+
